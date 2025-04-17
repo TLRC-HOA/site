@@ -2,7 +2,6 @@
 
 ---
 
-|||
 |-|-|
 |**President**|Jason Henderson|
 |**Vice President**|Stephanie Guffey|
@@ -25,6 +24,6 @@
         vertical-align: top;
     }
     table {
-        width: 100%
+        width: 100%;
     }
 </style>
